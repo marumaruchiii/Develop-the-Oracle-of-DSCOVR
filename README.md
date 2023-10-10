@@ -12,10 +12,10 @@ We anticipate using DSCOVR's raw data, which includes the magnetic field vector 
 
 
 #SPACE AGENCY DATA:
-[DSCOVR PlasMAG Data](https://www.spaceappschallenge.org/develop-the-oracle-of-dscovr-experimental-data-repository/)
-[NOAA REAL TIME SOLAR WIND](https://www.swpc.noaa.gov/products/real-time-solar-wind#)
-[NOAA PLASMA Measurements](https://nesdis-prod.s3.amazonaws.com/migrated/dscovr_plasmag_instrument_info_sheet.pdf?_ga=2.101728385.1069921316.1696687224-453793390.1696600630)
-[Disturbance Storm Time Index](https://www.ngdc.noaa.gov/stp/geomag/dst.html)
+[DSCOVR PlasMAG Data](https://www.spaceappschallenge.org/develop-the-oracle-of-dscovr-experimental-data-repository/)<br>
+[NOAA REAL TIME SOLAR WIND](https://www.swpc.noaa.gov/products/real-time-solar-wind#)<br>
+[NOAA PLASMA Measurements](https://nesdis-prod.s3.amazonaws.com/migrated/dscovr_plasmag_instrument_info_sheet.pdf?_ga=2.101728385.1069921316.1696687224-453793390.1696600630)<br>
+[Disturbance Storm Time Index](https://www.ngdc.noaa.gov/stp/geomag/dst.html)<br>
 [Kp-Index - Maine.gov](https://www.maine.gov/mema/maine-prepares/preparedness-library/geomagnetic-storms)
 
 #REFERENCES:
