@@ -27,9 +27,9 @@ We anticipate using DSCOVR's raw data, which includes the magnetic field vector 
 <br>
 <br>
 # REFERENCES:
-Faraday Cup Detectors- Prepared by H. H, HILTON and J. R STEVENS Space Physics Laboraiory
-Train GRU with PyTorch
-Install CUDA
+Faraday Cup Detectors- Prepared by H. H, HILTON and J. R STEVENS Space Physics Laboraiory<br>
+Train GRU with PyTorch<br>
+Install CUDA<br>
 Bokeh
 
 
