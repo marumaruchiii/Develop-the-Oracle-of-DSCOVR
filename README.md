@@ -6,7 +6,6 @@ Despite exceeding its expected lifespan, DSCOVR continues to operate. We'll impr
 <br>
 <br>
 The current project provides only preliminary architectural ideas on how to use DSCOVR data to predict magnetic storms.
-<br>
 We anticipate using DSCOVR's raw data, which includes the magnetic field vector and measurement spectrum from the Faraday cup plasma detector. After passing through an artificial neural network (ANN) model for evaluation, we will obtain a predicted Planetary K-index (Kp). This Kp will then be used to determine whether a magnetic storm is likely to occur.
 <br>
 <br>
